@@ -1,6 +1,5 @@
-📊 Hospital Emergency Room Data Analysis
-📌 Project Overview<img width="1920" height="1080" alt="dashboard" src="https://github.com/user-attachments/assets/3233a76c-4968-4282-85a8-ecaf4395464f" />
-
+📊 Hospita<img width="1536" height="1024" alt="Dashboard" src="https://github.com/user-attachments/assets/8efe2700-b6cf-42df-bd46-43b5decbc110" />
+l Emergency Room Data Analysis
 
 This project focuses on analyzing Hospital Emergency Room (ER) data to understand patient flow, wait times, and overall emergency department performance. The goal is to identify key insights that can help improve operational efficiency and patient care.
 
